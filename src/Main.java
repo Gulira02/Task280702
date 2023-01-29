@@ -263,10 +263,10 @@ public class Main {
 
 
 
-        //  System.out.println(returnVarargs(8,1,3,4,5,67,8,6,5,47,8));
+          System.out.println(returnVarargs(8,1,3,4,5,67,8,6,5,47,8));
 
-        int[] arr={1,14,2,3,4,5,65,74,82,9};
-        System.out.print(returnArrays(arr)+" ");
+    /*    int[] arr={1,14,2,3,4,5,65,74,82,9};
+        System.out.print(returnArrays(arr)+" ");*/
 
         //  firstMethod();
     }
