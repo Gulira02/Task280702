@@ -265,8 +265,8 @@ public class Main {
 
         //  System.out.println(returnVarargs(8,1,3,4,5,67,8,6,5,47,8));
 
-       /* int[] arr={1,14,2,3,4,5,65,74,82,9};
-        System.out.print(returnArrays(arr)+" ");*/
+        int[] arr={1,14,2,3,4,5,65,74,82,9};
+        System.out.print(returnArrays(arr)+" ");
 
         //  firstMethod();
     }
@@ -300,14 +300,14 @@ public class Main {
     //Методко биринчи берген аргументинизди экинчи берген аргументтердин ичинен барбы
     //же жокпу текшерип бар болсо true жок болсо false кайтарсын.
 
-   /* public static boolean returnVarargs(int number, int... numbers){
+    public static boolean returnVarargs(int number, int... numbers){
         for (int i = 0; i < numbers.length; i++) {
             if(number==numbers[i]){
                 return true;
             }
         }
         return false;
-    }*/
+    }
     // 10 lesson
 
 
